@@ -1,5 +1,6 @@
-# [How to Extract All Website Links in Python](https://www.thepythoncode.com/article/extract-all-website-links-python)
-To run this:
+# link_extractor.py
+
+## To Run:
 - `pip3 install -r requirements.txt`
 -
     ```
@@ -35,3 +36,6 @@ To run this:
     [+] Total URLs: 106
     ```
     This will also save these URLs in `github.com_external_links.txt` for external links and `github.com_internal_links.txt` for internal links.
+
+## Resources
+* https://www.thepythoncode.com/article/extract-all-website-links-python

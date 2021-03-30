@@ -1,5 +1,6 @@
-# [How to Make a Subdomain Scanner in Python](https://www.thepythoncode.com/article/make-subdomain-scanner-python)
-To run this:
+# fast_subdomain_scanner.py
+
+## To Run:
 - `pip3 install -r requirements.txt`
 - To run the fast subdomain scanner:
     ```
@@ -38,3 +39,6 @@ To run this:
     [+] Discovered subdomain: http://forums.hackthissite.org
     ```
 - For bigger subdomain wordlists, check [this repository](https://github.com/rbsec/dnscan).
+
+## Resources
+* https://www.thepythoncode.com/article/make-subdomain-scanner-python

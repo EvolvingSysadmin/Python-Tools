@@ -1,5 +1,6 @@
-# [How to Extract YouTube Data in Python](https://www.thepythoncode.com/article/get-youtube-data-python)
-To run this:
+# extract_video_info.py
+
+## To Run:
 - `pip3 install -r requirements.txt`
 -
     ```
@@ -22,8 +23,10 @@ To run this:
 
     == Ok, new video as soon as 10M subscriberz! ==
 
-
     Channel Name: jawed
     Channel URL: https://www.youtube.com/channel/UC4QobU6STFB0P71PMvOGN5A
     Channel Subscribers: 1.03M
     ```
+
+## Resources:
+* https://www.thepythoncode.com/article/get-youtube-data-python
